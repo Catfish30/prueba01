@@ -93,8 +93,6 @@ ul span{
         flex-direction: column-reverse;
         width: 250px;
         font-family: 'Inter', sans-serif;
-        /* align-items: center; */
-    /* justify-content: center; */
         margin: auto;
         margin-top: 10%;
         background-color:hsl(246, 38%, 16%);
